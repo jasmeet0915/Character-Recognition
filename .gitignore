@@ -1,0 +1,4 @@
+#ignore .csv database
+SVM_WithFoundDataset/A_ZHandwrittenData.csv
+A_Z Handwritten Data.zip
+Tesseract/frozen_east_text_detection.pb
